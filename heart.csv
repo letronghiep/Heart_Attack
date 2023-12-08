@@ -1,0 +1,304 @@
+age,sex,cp,trtbps,chol,fbs,restecg,thalachh,exng,oldpeak,output
+63,Nam,Khong co trieu chung,145,233,1,Binh thuong,150,Khong dau that nguc do tap the duc,2.3,1
+37,Nam,Khong dau that nguc,130,250,0,Co bat thuong song ST-T,187,Khong dau that nguc do tap the duc,3.5,1
+41,Nu,Dau that nguc khong dien hinh,130,204,0,Binh thuong,172,Khong dau that nguc do tap the duc,1.4,1
+56,Nam,Dau that nguc khong dien hinh,120,236,0,Co bat thuong song ST-T,178,Khong dau that nguc do tap the duc,0.8,1
+57,Nu,Dau that nguc dien hinh,120,354,0,Co bat thuong song ST-T,163,Dau that nguc do tap the duc,0.6,1
+57,Nam,Dau that nguc dien hinh,140,192,0,Co bat thuong song ST-T,148,Khong dau that nguc do tap the duc,0.4,1
+56,Nu,Dau that nguc khong dien hinh,140,294,0,Binh thuong,153,Khong dau that nguc do tap the duc,1.3,1
+44,Nam,Dau that nguc khong dien hinh,120,263,0,Co bat thuong song ST-T,173,Khong dau that nguc do tap the duc,0,1
+52,Nam,Khong dau that nguc,172,199,1,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,0.5,1
+57,Nam,Khong dau that nguc,150,168,0,Co bat thuong song ST-T,174,Khong dau that nguc do tap the duc,1.6,1
+54,Nam,Dau that nguc dien hinh,140,239,0,Co bat thuong song ST-T,160,Khong dau that nguc do tap the duc,1.2,1
+48,Nu,Khong dau that nguc,130,275,0,Co bat thuong song ST-T,139,Khong dau that nguc do tap the duc,0.2,1
+49,Nam,Dau that nguc khong dien hinh,130,266,0,Co bat thuong song ST-T,171,Khong dau that nguc do tap the duc,0.6,1
+64,Nam,Khong co trieu chung,110,211,0,Binh thuong,144,Dau that nguc do tap the duc,1.8,1
+58,Nu,Khong co trieu chung,150,283,1,Binh thuong,162,Khong dau that nguc do tap the duc,1,1
+50,Nu,Khong dau that nguc,120,219,0,Co bat thuong song ST-T,158,Khong dau that nguc do tap the duc,1.6,1
+58,Nu,Khong dau that nguc,120,340,0,Co bat thuong song ST-T,172,Khong dau that nguc do tap the duc,0,1
+66,Nu,Khong co trieu chung,150,226,0,Co bat thuong song ST-T,114,Khong dau that nguc do tap the duc,2.6,1
+43,Nam,Dau that nguc dien hinh,150,247,0,Co bat thuong song ST-T,171,Khong dau that nguc do tap the duc,1.5,1
+69,Nu,Khong co trieu chung,140,239,0,Co bat thuong song ST-T,151,Khong dau that nguc do tap the duc,1.8,1
+59,Nam,Dau that nguc dien hinh,135,234,0,Co bat thuong song ST-T,161,Khong dau that nguc do tap the duc,0.5,1
+44,Nam,Khong dau that nguc,130,233,0,Co bat thuong song ST-T,179,Dau that nguc do tap the duc,0.4,1
+42,Nam,Dau that nguc dien hinh,140,226,0,Co bat thuong song ST-T,178,Khong dau that nguc do tap the duc,0,1
+61,Nam,Khong dau that nguc,150,243,1,Co bat thuong song ST-T,137,Dau that nguc do tap the duc,1,1
+40,Nam,Khong co trieu chung,140,199,0,Co bat thuong song ST-T,178,Dau that nguc do tap the duc,1.4,1
+71,Nu,Dau that nguc khong dien hinh,160,302,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,0.4,1
+59,Nam,Khong dau that nguc,150,212,1,Co bat thuong song ST-T,157,Khong dau that nguc do tap the duc,1.6,1
+51,Nam,Khong dau that nguc,110,175,0,Co bat thuong song ST-T,123,Khong dau that nguc do tap the duc,0.6,1
+65,Nu,Khong dau that nguc,140,417,1,Binh thuong,157,Khong dau that nguc do tap the duc,0.8,1
+53,Nam,Khong dau that nguc,130,197,1,Binh thuong,152,Khong dau that nguc do tap the duc,1.2,1
+41,Nu,Dau that nguc khong dien hinh,105,198,0,Co bat thuong song ST-T,168,Khong dau that nguc do tap the duc,0,1
+65,Nam,Dau that nguc dien hinh,120,177,0,Co bat thuong song ST-T,140,Khong dau that nguc do tap the duc,0.4,1
+44,Nam,Dau that nguc khong dien hinh,130,219,0,Binh thuong,188,Khong dau that nguc do tap the duc,0,1
+54,Nam,Khong dau that nguc,125,273,0,Binh thuong,152,Khong dau that nguc do tap the duc,0.5,1
+51,Nam,Khong co trieu chung,125,213,0,Binh thuong,125,Dau that nguc do tap the duc,1.4,1
+46,Nu,Khong dau that nguc,142,177,0,Binh thuong,160,Dau that nguc do tap the duc,1.4,1
+54,Nu,Khong dau that nguc,135,304,1,Co bat thuong song ST-T,170,Khong dau that nguc do tap the duc,0,1
+54,Nam,Khong dau that nguc,150,232,0,Binh thuong,165,Khong dau that nguc do tap the duc,1.6,1
+65,Nu,Khong dau that nguc,155,269,0,Co bat thuong song ST-T,148,Khong dau that nguc do tap the duc,0.8,1
+65,Nu,Khong dau that nguc,160,360,0,Binh thuong,151,Khong dau that nguc do tap the duc,0.8,1
+51,Nu,Khong dau that nguc,140,308,0,Binh thuong,142,Khong dau that nguc do tap the duc,1.5,1
+48,Nam,Dau that nguc khong dien hinh,130,245,0,Binh thuong,180,Khong dau that nguc do tap the duc,0.2,1
+45,Nam,Dau that nguc dien hinh,104,208,0,Binh thuong,148,Dau that nguc do tap the duc,3,1
+53,Nu,Dau that nguc dien hinh,130,264,0,Binh thuong,143,Khong dau that nguc do tap the duc,0.4,1
+39,Nam,Khong dau that nguc,140,321,0,Binh thuong,182,Khong dau that nguc do tap the duc,0,1
+52,Nam,Dau that nguc khong dien hinh,120,325,0,Co bat thuong song ST-T,172,Khong dau that nguc do tap the duc,0.2,1
+44,Nam,Khong dau that nguc,140,235,0,Binh thuong,180,Khong dau that nguc do tap the duc,0,1
+47,Nam,Khong dau that nguc,138,257,0,Binh thuong,156,Khong dau that nguc do tap the duc,0,1
+53,Nu,Khong dau that nguc,128,216,0,Binh thuong,115,Khong dau that nguc do tap the duc,0,1
+53,Nu,Dau that nguc dien hinh,138,234,0,Binh thuong,160,Khong dau that nguc do tap the duc,0,1
+51,Nu,Khong dau that nguc,130,256,0,Binh thuong,149,Khong dau that nguc do tap the duc,0.5,1
+66,Nam,Dau that nguc dien hinh,120,302,0,Binh thuong,151,Khong dau that nguc do tap the duc,0.4,1
+62,Nam,Khong dau that nguc,130,231,0,Co bat thuong song ST-T,146,Khong dau that nguc do tap the duc,1.8,1
+44,Nu,Khong dau that nguc,108,141,0,Co bat thuong song ST-T,175,Khong dau that nguc do tap the duc,0.6,1
+63,Nu,Khong dau that nguc,135,252,0,Binh thuong,172,Khong dau that nguc do tap the duc,0,1
+52,Nam,Dau that nguc khong dien hinh,134,201,0,Co bat thuong song ST-T,158,Khong dau that nguc do tap the duc,0.8,1
+48,Nam,Dau that nguc dien hinh,122,222,0,Binh thuong,186,Khong dau that nguc do tap the duc,0,1
+45,Nam,Dau that nguc dien hinh,115,260,0,Binh thuong,185,Khong dau that nguc do tap the duc,0,1
+34,Nam,Khong co trieu chung,118,182,0,Binh thuong,174,Khong dau that nguc do tap the duc,0,1
+57,Nu,Dau that nguc dien hinh,128,303,0,Binh thuong,159,Khong dau that nguc do tap the duc,0,1
+71,Nu,Khong dau that nguc,110,265,1,Binh thuong,130,Khong dau that nguc do tap the duc,0,1
+54,Nam,Dau that nguc khong dien hinh,108,309,0,Co bat thuong song ST-T,156,Khong dau that nguc do tap the duc,0,1
+52,Nam,Khong co trieu chung,118,186,0,Binh thuong,190,Khong dau that nguc do tap the duc,0,1
+41,Nam,Dau that nguc khong dien hinh,135,203,0,Co bat thuong song ST-T,132,Khong dau that nguc do tap the duc,0,1
+58,Nam,Khong dau that nguc,140,211,1,Binh thuong,165,Khong dau that nguc do tap the duc,0,1
+35,Nu,Dau that nguc dien hinh,138,183,0,Co bat thuong song ST-T,182,Khong dau that nguc do tap the duc,1.4,1
+51,Nam,Khong dau that nguc,100,222,0,Co bat thuong song ST-T,143,Dau that nguc do tap the duc,1.2,1
+45,Nu,Dau that nguc khong dien hinh,130,234,0,Binh thuong,175,Khong dau that nguc do tap the duc,0.6,1
+44,Nam,Dau that nguc khong dien hinh,120,220,0,Co bat thuong song ST-T,170,Khong dau that nguc do tap the duc,0,1
+62,Nu,Dau that nguc dien hinh,124,209,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0,1
+54,Nam,Khong dau that nguc,120,258,0,Binh thuong,147,Khong dau that nguc do tap the duc,0.4,1
+51,Nam,Khong dau that nguc,94,227,0,Co bat thuong song ST-T,154,Dau that nguc do tap the duc,0,1
+29,Nam,Dau that nguc khong dien hinh,130,204,0,Binh thuong,202,Khong dau that nguc do tap the duc,0,1
+51,Nam,Dau that nguc dien hinh,140,261,0,Binh thuong,186,Dau that nguc do tap the duc,0,1
+43,Nu,Khong dau that nguc,122,213,0,Co bat thuong song ST-T,165,Khong dau that nguc do tap the duc,0.2,1
+55,Nu,Dau that nguc khong dien hinh,135,250,0,Binh thuong,161,Khong dau that nguc do tap the duc,1.4,1
+51,Nam,Khong dau that nguc,125,245,1,Binh thuong,166,Khong dau that nguc do tap the duc,2.4,1
+59,Nam,Dau that nguc khong dien hinh,140,221,0,Co bat thuong song ST-T,164,Dau that nguc do tap the duc,0,1
+52,Nam,Dau that nguc khong dien hinh,128,205,1,Co bat thuong song ST-T,184,Khong dau that nguc do tap the duc,0,1
+58,Nam,Khong dau that nguc,105,240,0,Binh thuong,154,Dau that nguc do tap the duc,0.6,1
+41,Nam,Khong dau that nguc,112,250,0,Co bat thuong song ST-T,179,Khong dau that nguc do tap the duc,0,1
+45,Nam,Dau that nguc khong dien hinh,128,308,0,Binh thuong,170,Khong dau that nguc do tap the duc,0,1
+60,Nu,Khong dau that nguc,102,318,0,Co bat thuong song ST-T,160,Khong dau that nguc do tap the duc,0,1
+52,Nam,Khong co trieu chung,152,298,1,Co bat thuong song ST-T,178,Khong dau that nguc do tap the duc,1.2,1
+42,Nu,Dau that nguc dien hinh,102,265,0,Binh thuong,122,Khong dau that nguc do tap the duc,0.6,1
+67,Nu,Khong dau that nguc,115,564,0,Binh thuong,160,Khong dau that nguc do tap the duc,1.6,1
+68,Nam,Khong dau that nguc,118,277,0,Co bat thuong song ST-T,151,Khong dau that nguc do tap the duc,1,1
+46,Nam,Dau that nguc khong dien hinh,101,197,1,Co bat thuong song ST-T,156,Khong dau that nguc do tap the duc,0,1
+54,Nu,Khong dau that nguc,110,214,0,Co bat thuong song ST-T,158,Khong dau that nguc do tap the duc,1.6,1
+58,Nu,Dau that nguc dien hinh,100,248,0,Binh thuong,122,Khong dau that nguc do tap the duc,1,1
+48,Nam,Khong dau that nguc,124,255,1,Co bat thuong song ST-T,175,Khong dau that nguc do tap the duc,0,1
+57,Nam,Dau that nguc dien hinh,132,207,0,Co bat thuong song ST-T,168,Dau that nguc do tap the duc,0,1
+52,Nam,Khong dau that nguc,138,223,0,Co bat thuong song ST-T,169,Khong dau that nguc do tap the duc,0,1
+54,Nu,Dau that nguc khong dien hinh,132,288,1,Binh thuong,159,Dau that nguc do tap the duc,0,1
+45,Nu,Dau that nguc khong dien hinh,112,160,0,Co bat thuong song ST-T,138,Khong dau that nguc do tap the duc,0,1
+53,Nam,Dau that nguc dien hinh,142,226,0,Binh thuong,111,Dau that nguc do tap the duc,0,1
+62,Nu,Dau that nguc dien hinh,140,394,0,Binh thuong,157,Khong dau that nguc do tap the duc,1.2,1
+52,Nam,Dau that nguc dien hinh,108,233,1,Co bat thuong song ST-T,147,Khong dau that nguc do tap the duc,0.1,1
+43,Nam,Khong dau that nguc,130,315,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,1.9,1
+53,Nam,Khong dau that nguc,130,246,1,Binh thuong,173,Khong dau that nguc do tap the duc,0,1
+42,Nam,Khong co trieu chung,148,244,0,Binh thuong,178,Khong dau that nguc do tap the duc,0.8,1
+59,Nam,Khong co trieu chung,178,270,0,Binh thuong,145,Khong dau that nguc do tap the duc,4.2,1
+63,Nu,Dau that nguc khong dien hinh,140,195,0,Co bat thuong song ST-T,179,Khong dau that nguc do tap the duc,0,1
+42,Nam,Khong dau that nguc,120,240,1,Co bat thuong song ST-T,194,Khong dau that nguc do tap the duc,0.8,1
+50,Nam,Khong dau that nguc,129,196,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0,1
+68,Nu,Khong dau that nguc,120,211,0,Binh thuong,115,Khong dau that nguc do tap the duc,1.5,1
+69,Nam,Khong co trieu chung,160,234,1,Binh thuong,131,Khong dau that nguc do tap the duc,0.1,1
+45,Nu,Dau that nguc dien hinh,138,236,0,Binh thuong,152,Dau that nguc do tap the duc,0.2,1
+50,Nu,Dau that nguc khong dien hinh,120,244,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,1.1,1
+50,Nu,Dau that nguc dien hinh,110,254,0,Binh thuong,159,Khong dau that nguc do tap the duc,0,1
+64,Nu,Dau that nguc dien hinh,180,325,0,Co bat thuong song ST-T,154,Dau that nguc do tap the duc,0,1
+57,Nam,Khong dau that nguc,150,126,1,Co bat thuong song ST-T,173,Khong dau that nguc do tap the duc,0.2,1
+64,Nu,Khong dau that nguc,140,313,0,Co bat thuong song ST-T,133,Khong dau that nguc do tap the duc,0.2,1
+43,Nam,Dau that nguc dien hinh,110,211,0,Co bat thuong song ST-T,161,Khong dau that nguc do tap the duc,0,1
+55,Nam,Dau that nguc khong dien hinh,130,262,0,Co bat thuong song ST-T,155,Khong dau that nguc do tap the duc,0,1
+37,Nu,Khong dau that nguc,120,215,0,Co bat thuong song ST-T,170,Khong dau that nguc do tap the duc,0,1
+41,Nam,Khong dau that nguc,130,214,0,Binh thuong,168,Khong dau that nguc do tap the duc,2,1
+56,Nam,Khong co trieu chung,120,193,0,Binh thuong,162,Khong dau that nguc do tap the duc,1.9,1
+46,Nu,Dau that nguc khong dien hinh,105,204,0,Co bat thuong song ST-T,172,Khong dau that nguc do tap the duc,0,1
+46,Nu,Dau that nguc dien hinh,138,243,0,Binh thuong,152,Dau that nguc do tap the duc,0,1
+64,Nu,Dau that nguc dien hinh,130,303,0,Co bat thuong song ST-T,122,Khong dau that nguc do tap the duc,2,1
+59,Nam,Dau that nguc dien hinh,138,271,0,Binh thuong,182,Khong dau that nguc do tap the duc,0,1
+41,Nu,Khong dau that nguc,112,268,0,Binh thuong,172,Dau that nguc do tap the duc,0,1
+54,Nu,Khong dau that nguc,108,267,0,Binh thuong,167,Khong dau that nguc do tap the duc,0,1
+39,Nu,Khong dau that nguc,94,199,0,Co bat thuong song ST-T,179,Khong dau that nguc do tap the duc,0,1
+34,Nu,Dau that nguc khong dien hinh,118,210,0,Co bat thuong song ST-T,192,Khong dau that nguc do tap the duc,0.7,1
+47,Nam,Dau that nguc dien hinh,112,204,0,Co bat thuong song ST-T,143,Khong dau that nguc do tap the duc,0.1,1
+67,Nu,Khong dau that nguc,152,277,0,Co bat thuong song ST-T,172,Khong dau that nguc do tap the duc,0,1
+52,Nu,Khong dau that nguc,136,196,0,Binh thuong,169,Khong dau that nguc do tap the duc,0.1,1
+74,Nu,Dau that nguc khong dien hinh,120,269,0,Binh thuong,121,Dau that nguc do tap the duc,0.2,1
+54,Nu,Khong dau that nguc,160,201,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0,1
+49,Nu,Dau that nguc khong dien hinh,134,271,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,0,1
+42,Nam,Dau that nguc khong dien hinh,120,295,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,0,1
+41,Nam,Dau that nguc khong dien hinh,110,235,0,Co bat thuong song ST-T,153,Khong dau that nguc do tap the duc,0,1
+41,Nu,Dau that nguc khong dien hinh,126,306,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0,1
+49,Nu,Dau that nguc dien hinh,130,269,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0,1
+60,Nu,Khong dau that nguc,120,178,1,Co bat thuong song ST-T,96,Khong dau that nguc do tap the duc,0,1
+62,Nam,Dau that nguc khong dien hinh,128,208,1,Binh thuong,140,Khong dau that nguc do tap the duc,0,1
+57,Nam,Dau that nguc dien hinh,110,201,0,Co bat thuong song ST-T,126,Dau that nguc do tap the duc,1.5,1
+64,Nam,Dau that nguc dien hinh,128,263,0,Co bat thuong song ST-T,105,Dau that nguc do tap the duc,0.2,1
+51,Nu,Khong dau that nguc,120,295,0,Binh thuong,157,Khong dau that nguc do tap the duc,0.6,1
+43,Nam,Dau that nguc dien hinh,115,303,0,Co bat thuong song ST-T,181,Khong dau that nguc do tap the duc,1.2,1
+42,Nu,Khong dau that nguc,120,209,0,Co bat thuong song ST-T,173,Khong dau that nguc do tap the duc,0,1
+67,Nu,Dau that nguc dien hinh,106,223,0,Co bat thuong song ST-T,142,Khong dau that nguc do tap the duc,0.3,1
+76,Nu,Khong dau that nguc,140,197,0,Hien thi phi dai that trai,116,Khong dau that nguc do tap the duc,1.1,1
+70,Nam,Dau that nguc khong dien hinh,156,245,0,Binh thuong,143,Khong dau that nguc do tap the duc,0,1
+44,Nu,Khong dau that nguc,118,242,0,Co bat thuong song ST-T,149,Khong dau that nguc do tap the duc,0.3,1
+60,Nu,Khong co trieu chung,150,240,0,Co bat thuong song ST-T,171,Khong dau that nguc do tap the duc,0.9,1
+44,Nam,Khong dau that nguc,120,226,0,Co bat thuong song ST-T,169,Khong dau that nguc do tap the duc,0,1
+42,Nam,Khong dau that nguc,130,180,0,Co bat thuong song ST-T,150,Khong dau that nguc do tap the duc,0,1
+66,Nam,Dau that nguc dien hinh,160,228,0,Binh thuong,138,Khong dau that nguc do tap the duc,2.3,1
+71,Nu,Dau that nguc dien hinh,112,149,0,Co bat thuong song ST-T,125,Khong dau that nguc do tap the duc,1.6,1
+64,Nam,Khong co trieu chung,170,227,0,Binh thuong,155,Khong dau that nguc do tap the duc,0.6,1
+66,Nu,Khong dau that nguc,146,278,0,Binh thuong,152,Khong dau that nguc do tap the duc,0,1
+39,Nu,Khong dau that nguc,138,220,0,Co bat thuong song ST-T,152,Khong dau that nguc do tap the duc,0,1
+58,Nu,Dau that nguc dien hinh,130,197,0,Co bat thuong song ST-T,131,Khong dau that nguc do tap the duc,0.6,1
+47,Nam,Khong dau that nguc,130,253,0,Co bat thuong song ST-T,179,Khong dau that nguc do tap the duc,0,1
+35,Nam,Dau that nguc khong dien hinh,122,192,0,Co bat thuong song ST-T,174,Khong dau that nguc do tap the duc,0,1
+58,Nam,Dau that nguc khong dien hinh,125,220,0,Co bat thuong song ST-T,144,Khong dau that nguc do tap the duc,0.4,1
+56,Nam,Dau that nguc khong dien hinh,130,221,0,Binh thuong,163,Khong dau that nguc do tap the duc,0,1
+56,Nam,Dau that nguc khong dien hinh,120,240,0,Co bat thuong song ST-T,169,Khong dau that nguc do tap the duc,0,1
+55,Nu,Dau that nguc khong dien hinh,132,342,0,Co bat thuong song ST-T,166,Khong dau that nguc do tap the duc,1.2,1
+41,Nam,Dau that nguc khong dien hinh,120,157,0,Co bat thuong song ST-T,182,Khong dau that nguc do tap the duc,0,1
+38,Nam,Khong dau that nguc,138,175,0,Co bat thuong song ST-T,173,Khong dau that nguc do tap the duc,0,1
+38,Nam,Khong dau that nguc,138,175,0,Co bat thuong song ST-T,173,Khong dau that nguc do tap the duc,0,1
+67,Nam,Dau that nguc dien hinh,160,286,0,Binh thuong,108,Dau that nguc do tap the duc,1.5,0
+67,Nam,Dau that nguc dien hinh,120,229,0,Binh thuong,129,Dau that nguc do tap the duc,2.6,0
+62,Nu,Dau that nguc dien hinh,140,268,0,Binh thuong,160,Khong dau that nguc do tap the duc,3.6,0
+63,Nam,Dau that nguc dien hinh,130,254,0,Binh thuong,147,Khong dau that nguc do tap the duc,1.4,0
+53,Nam,Dau that nguc dien hinh,140,203,1,Binh thuong,155,Dau that nguc do tap the duc,3.1,0
+56,Nam,Khong dau that nguc,130,256,1,Binh thuong,142,Dau that nguc do tap the duc,0.6,0
+48,Nam,Dau that nguc khong dien hinh,110,229,0,Co bat thuong song ST-T,168,Khong dau that nguc do tap the duc,1,0
+58,Nam,Dau that nguc khong dien hinh,120,284,0,Binh thuong,160,Khong dau that nguc do tap the duc,1.8,0
+58,Nam,Khong dau that nguc,132,224,0,Binh thuong,173,Khong dau that nguc do tap the duc,3.2,0
+60,Nam,Dau that nguc dien hinh,130,206,0,Binh thuong,132,Dau that nguc do tap the duc,2.4,0
+40,Nam,Dau that nguc dien hinh,110,167,0,Binh thuong,114,Dau that nguc do tap the duc,2,0
+60,Nam,Dau that nguc dien hinh,117,230,1,Co bat thuong song ST-T,160,Dau that nguc do tap the duc,1.4,0
+64,Nam,Khong dau that nguc,140,335,0,Co bat thuong song ST-T,158,Khong dau that nguc do tap the duc,0,0
+43,Nam,Dau that nguc dien hinh,120,177,0,Binh thuong,120,Dau that nguc do tap the duc,2.5,0
+57,Nam,Dau that nguc dien hinh,150,276,0,Binh thuong,112,Dau that nguc do tap the duc,0.6,0
+55,Nam,Dau that nguc dien hinh,132,353,0,Co bat thuong song ST-T,132,Dau that nguc do tap the duc,1.2,0
+65,Nu,Dau that nguc dien hinh,150,225,0,Binh thuong,114,Khong dau that nguc do tap the duc,1,0
+61,Nu,Dau that nguc dien hinh,130,330,0,Binh thuong,169,Khong dau that nguc do tap the duc,0,0
+58,Nam,Khong dau that nguc,112,230,0,Binh thuong,165,Khong dau that nguc do tap the duc,2.5,0
+50,Nam,Dau that nguc dien hinh,150,243,0,Binh thuong,128,Khong dau that nguc do tap the duc,2.6,0
+44,Nam,Dau that nguc dien hinh,112,290,0,Binh thuong,153,Khong dau that nguc do tap the duc,0,0
+60,Nam,Dau that nguc dien hinh,130,253,0,Co bat thuong song ST-T,144,Dau that nguc do tap the duc,1.4,0
+54,Nam,Dau that nguc dien hinh,124,266,0,Binh thuong,109,Dau that nguc do tap the duc,2.2,0
+50,Nam,Khong dau that nguc,140,233,0,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0.6,0
+41,Nam,Dau that nguc dien hinh,110,172,0,Binh thuong,158,Khong dau that nguc do tap the duc,0,0
+51,Nu,Dau that nguc dien hinh,130,305,0,Co bat thuong song ST-T,142,Dau that nguc do tap the duc,1.2,0
+58,Nam,Dau that nguc dien hinh,128,216,0,Binh thuong,131,Dau that nguc do tap the duc,2.2,0
+54,Nam,Dau that nguc dien hinh,120,188,0,Co bat thuong song ST-T,113,Khong dau that nguc do tap the duc,1.4,0
+60,Nam,Dau that nguc dien hinh,145,282,0,Binh thuong,142,Dau that nguc do tap the duc,2.8,0
+60,Nam,Khong dau that nguc,140,185,0,Binh thuong,155,Khong dau that nguc do tap the duc,3,0
+59,Nam,Dau that nguc dien hinh,170,326,0,Binh thuong,140,Dau that nguc do tap the duc,3.4,0
+46,Nam,Khong dau that nguc,150,231,0,Co bat thuong song ST-T,147,Khong dau that nguc do tap the duc,3.6,0
+67,Nam,Dau that nguc dien hinh,125,254,1,Co bat thuong song ST-T,163,Khong dau that nguc do tap the duc,0.2,0
+62,Nam,Dau that nguc dien hinh,120,267,0,Co bat thuong song ST-T,99,Dau that nguc do tap the duc,1.8,0
+65,Nam,Dau that nguc dien hinh,110,248,0,Binh thuong,158,Khong dau that nguc do tap the duc,0.6,0
+44,Nam,Dau that nguc dien hinh,110,197,0,Binh thuong,177,Khong dau that nguc do tap the duc,0,0
+60,Nam,Dau that nguc dien hinh,125,258,0,Binh thuong,141,Dau that nguc do tap the duc,2.8,0
+58,Nam,Dau that nguc dien hinh,150,270,0,Binh thuong,111,Dau that nguc do tap the duc,0.8,0
+68,Nam,Khong dau that nguc,180,274,1,Binh thuong,150,Dau that nguc do tap the duc,1.6,0
+62,Nu,Dau that nguc dien hinh,160,164,0,Binh thuong,145,Khong dau that nguc do tap the duc,6.2,0
+52,Nam,Dau that nguc dien hinh,128,255,0,Co bat thuong song ST-T,161,Dau that nguc do tap the duc,0,0
+59,Nam,Dau that nguc dien hinh,110,239,0,Binh thuong,142,Dau that nguc do tap the duc,1.2,0
+60,Nu,Dau that nguc dien hinh,150,258,0,Binh thuong,157,Khong dau that nguc do tap the duc,2.6,0
+49,Nam,Khong dau that nguc,120,188,0,Co bat thuong song ST-T,139,Khong dau that nguc do tap the duc,2,0
+59,Nam,Dau that nguc dien hinh,140,177,0,Co bat thuong song ST-T,162,Dau that nguc do tap the duc,0,0
+57,Nam,Khong dau that nguc,128,229,0,Binh thuong,150,Khong dau that nguc do tap the duc,0.4,0
+61,Nam,Dau that nguc dien hinh,120,260,0,Co bat thuong song ST-T,140,Dau that nguc do tap the duc,3.6,0
+39,Nam,Dau that nguc dien hinh,118,219,0,Co bat thuong song ST-T,140,Khong dau that nguc do tap the duc,1.2,0
+61,Nu,Dau that nguc dien hinh,145,307,0,Binh thuong,146,Dau that nguc do tap the duc,1,0
+56,Nam,Dau that nguc dien hinh,125,249,1,Binh thuong,144,Dau that nguc do tap the duc,1.2,0
+43,Nu,Dau that nguc dien hinh,132,341,1,Binh thuong,136,Dau that nguc do tap the duc,3,0
+62,Nu,Khong dau that nguc,130,263,0,Co bat thuong song ST-T,97,Khong dau that nguc do tap the duc,1.2,0
+63,Nam,Dau that nguc dien hinh,130,330,1,Binh thuong,132,Dau that nguc do tap the duc,1.8,0
+65,Nam,Dau that nguc dien hinh,135,254,0,Binh thuong,127,Khong dau that nguc do tap the duc,2.8,0
+48,Nam,Dau that nguc dien hinh,130,256,1,Binh thuong,150,Dau that nguc do tap the duc,0,0
+63,Nu,Dau that nguc dien hinh,150,407,0,Binh thuong,154,Khong dau that nguc do tap the duc,4,0
+55,Nam,Dau that nguc dien hinh,140,217,0,Co bat thuong song ST-T,111,Dau that nguc do tap the duc,5.6,0
+65,Nam,Khong co trieu chung,138,282,1,Binh thuong,174,Khong dau that nguc do tap the duc,1.4,0
+56,Nu,Dau that nguc dien hinh,200,288,1,Binh thuong,133,Dau that nguc do tap the duc,4,0
+54,Nam,Dau that nguc dien hinh,110,239,0,Co bat thuong song ST-T,126,Dau that nguc do tap the duc,2.8,0
+70,Nam,Dau that nguc dien hinh,145,174,0,Co bat thuong song ST-T,125,Dau that nguc do tap the duc,2.6,0
+62,Nam,Dau that nguc khong dien hinh,120,281,0,Binh thuong,103,Khong dau that nguc do tap the duc,1.4,0
+35,Nam,Dau that nguc dien hinh,120,198,0,Co bat thuong song ST-T,130,Dau that nguc do tap the duc,1.6,0
+59,Nam,Khong co trieu chung,170,288,0,Binh thuong,159,Khong dau that nguc do tap the duc,0.2,0
+64,Nam,Khong dau that nguc,125,309,0,Co bat thuong song ST-T,131,Dau that nguc do tap the duc,1.8,0
+47,Nam,Khong dau that nguc,108,243,0,Co bat thuong song ST-T,152,Khong dau that nguc do tap the duc,0,0
+57,Nam,Dau that nguc dien hinh,165,289,1,Binh thuong,124,Khong dau that nguc do tap the duc,1,0
+55,Nam,Dau that nguc dien hinh,160,289,0,Binh thuong,145,Dau that nguc do tap the duc,0.8,0
+64,Nam,Dau that nguc dien hinh,120,246,0,Binh thuong,96,Dau that nguc do tap the duc,2.2,0
+70,Nam,Dau that nguc dien hinh,130,322,0,Binh thuong,109,Khong dau that nguc do tap the duc,2.4,0
+51,Nam,Dau that nguc dien hinh,140,299,0,Co bat thuong song ST-T,173,Dau that nguc do tap the duc,1.6,0
+58,Nam,Dau that nguc dien hinh,125,300,0,Binh thuong,171,Khong dau that nguc do tap the duc,0,0
+60,Nam,Dau that nguc dien hinh,140,293,0,Binh thuong,170,Khong dau that nguc do tap the duc,1.2,0
+77,Nam,Dau that nguc dien hinh,125,304,0,Binh thuong,162,Dau that nguc do tap the duc,0,0
+35,Nam,Dau that nguc dien hinh,126,282,0,Binh thuong,156,Dau that nguc do tap the duc,0,0
+70,Nam,Khong dau that nguc,160,269,0,Co bat thuong song ST-T,112,Dau that nguc do tap the duc,2.9,0
+59,Nu,Dau that nguc dien hinh,174,249,0,Co bat thuong song ST-T,143,Dau that nguc do tap the duc,0,0
+64,Nam,Dau that nguc dien hinh,145,212,0,Binh thuong,132,Khong dau that nguc do tap the duc,2,0
+57,Nam,Dau that nguc dien hinh,152,274,0,Co bat thuong song ST-T,88,Dau that nguc do tap the duc,1.2,0
+56,Nam,Dau that nguc dien hinh,132,184,0,Binh thuong,105,Dau that nguc do tap the duc,2.1,0
+48,Nam,Dau that nguc dien hinh,124,274,0,Binh thuong,166,Khong dau that nguc do tap the duc,0.5,0
+56,Nu,Dau that nguc dien hinh,134,409,0,Binh thuong,150,Dau that nguc do tap the duc,1.9,0
+66,Nam,Dau that nguc khong dien hinh,160,246,0,Co bat thuong song ST-T,120,Dau that nguc do tap the duc,0,0
+54,Nam,Dau that nguc khong dien hinh,192,283,0,Binh thuong,195,Khong dau that nguc do tap the duc,0,0
+69,Nam,Khong dau that nguc,140,254,0,Binh thuong,146,Khong dau that nguc do tap the duc,2,0
+51,Nam,Dau that nguc dien hinh,140,298,0,Co bat thuong song ST-T,122,Dau that nguc do tap the duc,4.2,0
+43,Nam,Dau that nguc dien hinh,132,247,1,Binh thuong,143,Dau that nguc do tap the duc,0.1,0
+62,Nu,Dau that nguc dien hinh,138,294,1,Co bat thuong song ST-T,106,Khong dau that nguc do tap the duc,1.9,0
+67,Nam,Dau that nguc dien hinh,100,299,0,Binh thuong,125,Dau that nguc do tap the duc,0.9,0
+59,Nam,Khong co trieu chung,160,273,0,Binh thuong,125,Khong dau that nguc do tap the duc,0,0
+45,Nam,Dau that nguc dien hinh,142,309,0,Binh thuong,147,Dau that nguc do tap the duc,0,0
+58,Nam,Dau that nguc dien hinh,128,259,0,Binh thuong,130,Dau that nguc do tap the duc,3,0
+50,Nam,Dau that nguc dien hinh,144,200,0,Binh thuong,126,Dau that nguc do tap the duc,0.9,0
+62,Nu,Dau that nguc dien hinh,150,244,0,Co bat thuong song ST-T,154,Dau that nguc do tap the duc,1.4,0
+38,Nam,Khong co trieu chung,120,231,0,Co bat thuong song ST-T,182,Dau that nguc do tap the duc,3.8,0
+66,Nu,Dau that nguc dien hinh,178,228,1,Co bat thuong song ST-T,165,Dau that nguc do tap the duc,1,0
+52,Nam,Dau that nguc dien hinh,112,230,0,Co bat thuong song ST-T,160,Khong dau that nguc do tap the duc,0,0
+53,Nam,Dau that nguc dien hinh,123,282,0,Co bat thuong song ST-T,95,Dau that nguc do tap the duc,2,0
+63,Nu,Dau that nguc dien hinh,108,269,0,Co bat thuong song ST-T,169,Dau that nguc do tap the duc,1.8,0
+54,Nam,Dau that nguc dien hinh,110,206,0,Binh thuong,108,Dau that nguc do tap the duc,0,0
+66,Nam,Dau that nguc dien hinh,112,212,0,Binh thuong,132,Dau that nguc do tap the duc,0.1,0
+55,Nu,Dau that nguc dien hinh,180,327,0,Hien thi phi dai that trai,117,Dau that nguc do tap the duc,3.4,0
+49,Nam,Khong dau that nguc,118,149,0,Binh thuong,126,Khong dau that nguc do tap the duc,0.8,0
+54,Nam,Dau that nguc dien hinh,122,286,0,Binh thuong,116,Dau that nguc do tap the duc,3.2,0
+56,Nam,Dau that nguc dien hinh,130,283,1,Binh thuong,103,Dau that nguc do tap the duc,1.6,0
+46,Nam,Dau that nguc dien hinh,120,249,0,Binh thuong,144,Khong dau that nguc do tap the duc,0.8,0
+61,Nam,Khong co trieu chung,134,234,0,Co bat thuong song ST-T,145,Khong dau that nguc do tap the duc,2.6,0
+67,Nam,Dau that nguc dien hinh,120,237,0,Co bat thuong song ST-T,71,Khong dau that nguc do tap the duc,1,0
+58,Nam,Dau that nguc dien hinh,100,234,0,Co bat thuong song ST-T,156,Khong dau that nguc do tap the duc,0.1,0
+47,Nam,Dau that nguc dien hinh,110,275,0,Binh thuong,118,Dau that nguc do tap the duc,1,0
+52,Nam,Dau that nguc dien hinh,125,212,0,Co bat thuong song ST-T,168,Khong dau that nguc do tap the duc,1,0
+58,Nam,Dau that nguc dien hinh,146,218,0,Co bat thuong song ST-T,105,Khong dau that nguc do tap the duc,2,0
+57,Nam,Dau that nguc khong dien hinh,124,261,0,Co bat thuong song ST-T,141,Khong dau that nguc do tap the duc,0.3,0
+58,Nu,Dau that nguc khong dien hinh,136,319,1,Binh thuong,152,Khong dau that nguc do tap the duc,0,0
+61,Nam,Dau that nguc dien hinh,138,166,0,Binh thuong,125,Dau that nguc do tap the duc,3.6,0
+42,Nam,Dau that nguc dien hinh,136,315,0,Co bat thuong song ST-T,125,Dau that nguc do tap the duc,1.8,0
+52,Nam,Dau that nguc dien hinh,128,204,1,Co bat thuong song ST-T,156,Dau that nguc do tap the duc,1,0
+59,Nam,Khong dau that nguc,126,218,1,Co bat thuong song ST-T,134,Khong dau that nguc do tap the duc,2.2,0
+40,Nam,Dau that nguc dien hinh,152,223,0,Co bat thuong song ST-T,181,Khong dau that nguc do tap the duc,0,0
+61,Nam,Dau that nguc dien hinh,140,207,0,Binh thuong,138,Dau that nguc do tap the duc,1.9,0
+46,Nam,Dau that nguc dien hinh,140,311,0,Co bat thuong song ST-T,120,Dau that nguc do tap the duc,1.8,0
+59,Nam,Khong co trieu chung,134,204,0,Co bat thuong song ST-T,162,Khong dau that nguc do tap the duc,0.8,0
+57,Nam,Dau that nguc khong dien hinh,154,232,0,Binh thuong,164,Khong dau that nguc do tap the duc,0,0
+57,Nam,Dau that nguc dien hinh,110,335,0,Co bat thuong song ST-T,143,Dau that nguc do tap the duc,3,0
+55,Nu,Dau that nguc dien hinh,128,205,0,Hien thi phi dai that trai,130,Dau that nguc do tap the duc,2,0
+61,Nam,Dau that nguc dien hinh,148,203,0,Co bat thuong song ST-T,161,Khong dau that nguc do tap the duc,0,0
+58,Nam,Dau that nguc dien hinh,114,318,0,Hien thi phi dai that trai,140,Khong dau that nguc do tap the duc,4.4,0
+58,Nu,Dau that nguc dien hinh,170,225,1,Binh thuong,146,Dau that nguc do tap the duc,2.8,0
+67,Nam,Khong dau that nguc,152,212,0,Binh thuong,150,Khong dau that nguc do tap the duc,0.8,0
+44,Nam,Dau that nguc dien hinh,120,169,0,Co bat thuong song ST-T,144,Dau that nguc do tap the duc,2.8,0
+63,Nam,Dau that nguc dien hinh,140,187,0,Binh thuong,144,Dau that nguc do tap the duc,4,0
+63,Nu,Dau that nguc dien hinh,124,197,0,Co bat thuong song ST-T,136,Dau that nguc do tap the duc,0,0
+59,Nam,Dau that nguc dien hinh,164,176,1,Binh thuong,90,Khong dau that nguc do tap the duc,1,0
+57,Nu,Dau that nguc dien hinh,140,241,0,Co bat thuong song ST-T,123,Dau that nguc do tap the duc,0.2,0
+45,Nam,Khong co trieu chung,110,264,0,Co bat thuong song ST-T,132,Khong dau that nguc do tap the duc,1.2,0
+68,Nam,Dau that nguc dien hinh,144,193,1,Co bat thuong song ST-T,141,Khong dau that nguc do tap the duc,3.4,0
+57,Nam,Dau that nguc dien hinh,130,131,0,Co bat thuong song ST-T,115,Dau that nguc do tap the duc,1.2,0
+57,Nu,Dau that nguc khong dien hinh,130,236,0,Binh thuong,174,Khong dau that nguc do tap the duc,0,0
